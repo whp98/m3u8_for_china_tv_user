@@ -1,15 +1,17 @@
-# .m3u8 file for china TV station
+# .m3u8 files for china TV station
 
-## 0. about the file
+## 0. about those files
 超高清.m3u8     -- High bit rate, high performance equipment is required to support
 
 高清.m3u8       -- Lower bit rate, low device performance requirements
 
 分类_高清.m3u8   -- Low bit rate, special classification, suitable for movies
 
-## 1. It needs to work with VLC or other players
+## 1. It needs to work with [VLC](https://www.videolan.org/vlc/index.zh.html) or other players
 
-### on PC
+### PC or Phone （if your player like VLC）
+
+just open the file and select a TV station
 
 
 
