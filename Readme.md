@@ -16,7 +16,7 @@ just open the file and select a TV station
 
 
 
-## 2. I did this with the help of the link below
+## 2. I did this with the help of the links below
 
 references:
 
